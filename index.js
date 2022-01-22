@@ -10,3 +10,4 @@ import './ukol2.js';
 import './ukol3.js';
 import './ukol4.js';
 import './ukol5.js';
+import './ukol6.js';
